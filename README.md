@@ -26,7 +26,7 @@ Bu proje, orman yangınlarına müdahale eden, **sürü davranışı** gösteren
 
 ## 🖼️ Ekran Görüntüsü
 
-> ![Simülasyon GIF](assets/simulasyon.gif)
+> ![Simülasyon](simulasyon.gif)
 
 
 ## ⚙️ Nasıl Çalıştırılır?
